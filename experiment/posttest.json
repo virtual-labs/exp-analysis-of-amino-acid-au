@@ -2,38 +2,57 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1.  Diazotization reaction is involved in which test ?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Pauly’s Diazo test",
+        "b": "Lead sulphide test",
+        "c": "Millon’s test",
+        "d": "Sackaguchi test"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2.  Which test is specific for the detection of Tryptophan ?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Pauly’s Diazo test",
+        "b": "Xanthoproteic acid test",
+        "c": "Lead sulphide test",
+        "d": "Hopkins-Cole test"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "3. What is the precipitate obtained during the lead sulphide test ?",
+      "answers": {
+        "a": "Lead aceteate",
+        "b": "Sodium acetate",
+        "c": "Lead sulphide",
+        "d": "Sodium sulphide"
       },
+          
       "correctAnswer": "c",
       "difficulty": "beginner"
-    }
+    },
+
+      {
+        "question": "4.  Phenolic amino acids responds to which test ?",
+        "answers": {
+          "a": "Millon’s test",
+          "b": "Isatin test",
+          "c": "Lead sulphide test",
+          "d": "Pauly’s Diazo Test"
+        },
+
+            
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }   
+     
+    
   ]
 }
