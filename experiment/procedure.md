@@ -29,7 +29,7 @@
 
 
 
-Reagents Required:
+### Reagents Required:
 
  
 
@@ -144,7 +144,7 @@ Mix 1 ml of the amino acid solution with 1 ml acetic acid – glyoxilic acid rea
 
 
 
-#### 7.Sakaguchi Test:
+#### 7. Sakaguchi Test:
 
 
 To 1 ml of prechilled amino acid solution and few drops of NaOH is mixed and 2 drops of alpha naphthol is added. Mix thoroughly and add 4-5 drops of hypobromite reagent and observe.
