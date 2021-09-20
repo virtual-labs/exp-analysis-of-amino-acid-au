@@ -1,0 +1,58 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.  Triketohydrindene hydrate is otherwise called ?",
+      "answers": {
+        "a": "Millon’s reagent",
+        "b": "Ninhydrin reagent",
+        "c": "Hypobromite solution",
+        "d": "Isatin reagent"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2.  Which test is specific for the detection of Tryptophan ?",
+      "answers": {
+        "a": "Pauly’s Diazo test",
+        "b": "Xanthoproteic acid test",
+        "c": "Lead sulphide test",
+        "d": "Hopkins-Cole test"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "3. What is the precipitate obtained during the lead sulphide test ?",
+      "answers": {
+        "a": "Lead aceteate",
+        "b": "Sodium acetate",
+        "c": "Lead sulphide",
+        "d": "Sodium sulphide"
+      },
+          
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+
+      {
+        "question": "4.  Which test is used as the confirmatory test for Methionine ?",
+        "answers": {
+          "a": "Millon’s test",
+          "b": "Sackaguchi test",
+          "c": "Hopkins-Cole test",
+          "d": "Folins Mccarthy Sullivan’s Test"
+        },
+
+            
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }   
+     
+    
+  ]
+}
