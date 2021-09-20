@@ -8,7 +8,11 @@
 
 ### About the Experiment 
 
+
+To analyse qualitatively the presence of different types of carbohydrates in an unknown sample based on specific reactions.
+=======
 To identify the Amino Acid in the given solution.
+
 
 <b>Name of Developer | <b> Dr. Shyam Diwakar
 :--|:--|
